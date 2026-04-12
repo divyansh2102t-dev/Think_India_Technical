@@ -13,3 +13,4 @@ The primary task involved designing and deploying a professional portfolio to sh
 * **Status:** Completed
 * **Live Preview:** [https://divyansh-tiwari.xyz/](https://divyansh-tiwari.xyz/)
 * **Repository:** Private
+* **Framework:** NextJs
